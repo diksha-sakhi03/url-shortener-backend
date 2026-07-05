@@ -1,7 +1,6 @@
 # URL Shortener Backend
 
-A RESTful URL shortening service built using Node.js, Express.js, and MongoDB. The application generates unique short URLs, redirects users to the original URLs, and stores URL mappings in MongoDB.
-
+A RESTful URL Shortener API built with Node.js, Express.js, and MongoDB that generates unique short URLs, redirects users to the original destination, prevents duplicate entries, and tracks click analytics.
 ## Features
 
 - Generate unique shortened URLs using **NanoID**.
